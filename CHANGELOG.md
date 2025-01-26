@@ -23,6 +23,7 @@
   Fetch URL: https://github.com//commit/132359c564750651a9b10a01caf4b8dc30862556)
 - Updating CHANGELOG [view commit](http://github.com/* remote origin
   Fetch URL: https://github.com//commit/20727f81f2add352433c0649a9e5e3e5093467ac)
+- Fixed deprecated gradle script issue for android 14.
 
 ## [v6.0.7](https://github.com/* remote origin
   Fetch URL: https://github.com//tree/v6.0.7) (2017-07-12)
